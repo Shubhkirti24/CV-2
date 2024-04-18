@@ -1,4 +1,3 @@
-My approach-Naman (Feel free to suggest)
 
 1. Load the 3D point cloud model of the airport and define the camera parameters, such as the focal length, aspect ratio, and image resolution.
 2. Define the initial position and orientation of the camera at the end of the runway, facing down the runway towards the control tower.
