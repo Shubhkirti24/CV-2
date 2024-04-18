@@ -58,7 +58,6 @@ The final implementation is done using the **animate_above** function, which tak
 ### Result:
 Our implementation involved created the animation of take-offs and landings for the plane without any perspective change as  :
 
-https://github.com/Shubhkirti24/CV-2/blob/main/part1/Bank_turn.gif
 
 <p align="center">
     <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part1/takeoff.gif.gif" alt>
