@@ -307,34 +307,3 @@ These are the output images (after going through the algorithm:
 ____
 
 
-# Contributions of the Authors
-
-
-## Hiroki Sato 
-
-Hiroki was responsible for researching, writing and implementing the code for Part 3 (Inferring depth from stereo) of the Assignment.
-
-He implemented the Naive approach and integerated the Loopy implementation from Part 2 of the assignment which was developed by Ketul.
-
-
-## Ketul Patel 
-
-Ketul was responsible for the reseach and the final implementation of the Part 2 and Part 3(Understanding Markov Random Fields) of the assignment. His code was further used in creating the Loopy algorithm in Part 3 as well.
-
-
-## Naman Nimbale
-
-Naman was resposible for the immplementation for the Part 1 (3d-to-2d) of the assignment. His implementation created the *Bank Turn* animation for the part 1.
-
-
-## Shubhkirti Prasad
-
-Shubhkirti was responsible for the implementation for the Part 1 (3d-to-2d) of the assignment with Naman. His implementation created the **Taking off and Landing** animations for the problem. 
-
-He also worked on the initial approach for the Part-2. 
-However Ketul's implementation was less complicated and easier to implement, which was finally used. 
-
-He was also responsible to create the final report for all the code implementations in the assignment.
-
-
----
