@@ -58,8 +58,10 @@ The final implementation is done using the **animate_above** function, which tak
 ### Result:
 Our implementation involved created the animation of take-offs and landings for the plane without any perspective change as  :
 
+https://github.com/Shubhkirti24/CV-2/blob/main/part1/Bank_turn.gif
+
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part1/takeoff.gif.gif" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part1/takeoff.gif.gif" alt>
 </p>
 <p align="center">
      <em>Take off</em>
@@ -67,7 +69,7 @@ Our implementation involved created the animation of take-offs and landings for 
 
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part1/Bank_turn.gif" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part1/Bank_turn.gif" alt>
 </p>
 <p align="center">
      <em>Bank Turn</em>
@@ -76,7 +78,7 @@ Our implementation involved created the animation of take-offs and landings for 
 
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part1/landing.gif" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part1/landing.gif" alt>
 </p>
 <p align="center">
      <em>Landing</em>
@@ -266,28 +268,28 @@ Finally, if a ground truth image is provided, the mean error of the two techniqu
 These are the output images (after going through the algorithm:
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part3/maxdisparity10_window5.png" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part3/maxdisparity10_window5.png" alt>
 </p>
 <p align="center">
      <em>Naive Stereo Result with MAXDISPARITY of 10 and window size of 5</em>
 </p>
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part3/Disparity20_window5.png" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part3/Disparity20_window5.png" alt>
 </p>
 <p align="center">
      <em>Naive Stereo Result with MAXDISPARITY of 20 and window size of 5</em>
 </p>
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part3/Disparity20_window5.png" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part3/Disparity20_window5.png" alt>
 </p>
 <p align="center">
      <em>Naive Stereo Result with MAXDISPARITY of 20 and window size of 3</em>
 </p>
 
 <p align="center">
-    <img src="https://github.iu.edu/cs-b657-sp2023/hirosato-nnimbale-ketvpate-shubpras-a2/blob/main/part3/output-naive.png" alt>
+    <img src="https://github.com/Shubhkirti24/CV-2/blob/main/part3/output-naive.png" alt>
 </p>
 <p align="center">
      <em>Naive Stereo Result with MAXDISPARITY of 40 and window size of 3</em>
